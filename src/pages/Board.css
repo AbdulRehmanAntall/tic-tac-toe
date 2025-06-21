@@ -1,0 +1,26 @@
+.square-button {
+
+    gap: 2px;
+
+}
+
+.board-container {
+    background-color: #46395f;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px rgba(89, 44, 172, 0.5);
+}
+
+.Board-row {
+
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    padding: 5px;
+
+    outline: #592cac;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+
+}
